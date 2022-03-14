@@ -1,0 +1,1 @@
+insert into item values ('26937741-15a2-435b-82b0-39cd0539ed5e','Item Name','Item Name','hockey_pads',20.00,"2022-03-10T14:46:55.372283Z","2022-03-10T14:46:55.372283Z",null)
